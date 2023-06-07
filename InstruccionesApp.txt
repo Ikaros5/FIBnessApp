@@ -1,0 +1,9 @@
+Para poder descargar y usar la app:
+
+
+1 - Siga los pasos indicados en el tutorial de Beeware, parte 0 y 1.
+https://docs.beeware.org/en/latest/tutorial/tutorial-0.html
+
+2 - Una vez creado el nuevo proyecto hay que ir a /beeware/ProjectName/src/ProjectName y cambiar el app.py que hay por defecto (vacio) por el app.py proporcionado
+
+3 - En /beeware/ProjectName ejecutamos briefcase dev
